@@ -1,12 +1,13 @@
-# Simple RNN IMDB Sentiment Analysis
+# ANN Classification Project
 
-This project implements a simple Recurrent Neural Network (RNN) using TensorFlow and Keras to perform sentiment analysis on IMDB movie reviews. The model classifies reviews as positive or negative based on their content.
+This project implements an Artificial Neural Network (ANN) using TensorFlow and Keras for classification tasks. The model classifies input data into predefined categories based on its features.
 
 ## Deployed Application
 
 You can access the deployed version of the application using the following link:
 
-[Simple RNN IMDB Sentiment Analysis](https://simplernnpyprojectvb-jkesdvkvj8ejyuz2hperm3.streamlit.app/)
+[ANN Classification Project](https://your-deployed-link.com/)
+[GITHUB_LINK](https://github.com/rupali-12/ANN_PY_PROJECT_VB)
 
 ## Getting Started
 
@@ -21,7 +22,7 @@ Make sure you have Python installed on your system. You'll also need to install 
 1. **Clone the repository** to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone (https://github.com/rupali-12/ANN_PY_PROJECT_VB)
 
    ```
 
@@ -51,7 +52,7 @@ After running this command, the application will be accessible in your web brows
 
 # LocalHost
 
-[localhost:](http://localhost:8501/)
+[localhost:](http://localhost:${PORT}/)
 
 # Contributor
 

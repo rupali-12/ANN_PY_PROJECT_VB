@@ -6,8 +6,9 @@ This project implements an Artificial Neural Network (ANN) using TensorFlow and 
 
 You can access the deployed version of the application using the following link:
 
-[ANN Classification Project](https://your-deployed-link.com/)
+[ANN Classification Project](https://annpyprojectvb-f5jdbv4qm5ptahq2x7gbv9.streamlit.app/)
 [GITHUB_LINK](https://github.com/rupali-12/ANN_PY_PROJECT_VB)
+[GITLAB_LINK](https://github.com/rupali-12/ANN_PY_PROJECT_VB)
 
 ## Getting Started
 
